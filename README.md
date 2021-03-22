@@ -10,6 +10,8 @@
 RuiJi Scraper is a RuiJi expression based browser plug-in that uses visual rule editing and generates RuiJi expressions for RuiJi.Net.
 [firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ruiji-scraper/)
 
+[chrome](https://chrome.google.com/webstore/detail/ruiji-scraper/klhahkhllngppofpkjdlbmnglnmnbbol)
+
 #### Contributors
 
 This project exists thanks to all the people who contribute. 
@@ -55,6 +57,9 @@ RuiJi.Net support ip polling that using the server public network address and pr
 
 Building
 [http://doc.ruijihg.com/](http://doc.ruijihg.com/)
+
+## Demo
+[http://118.31.61.230:36000/](http://118.31.61.230:36000/)
 
 ## Features
 
